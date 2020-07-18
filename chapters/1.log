@@ -1,0 +1,4449 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2020.7.1)  19 JUL 2020 02:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**1.tex
+(./1.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+! Undefined control sequence.
+l.1 \فصل
+           {نمودار \کد{UML}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \فصل{ن
+              مودار \کد{UML}}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.1 \فصل{نمودار \کد
+                              {UML}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no L in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 د
+      ر این فصل نکات کلی در مورد نگارش پایان�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 6--7
+[]
+ []
+
+! Undefined control sequence.
+l.8 \قسمت
+             {پرونده‌ها}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \قسمت{پ
+                رونده‌ها}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--9
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 پ
+       رونده‌ی اصلی پایان‌نامه‌ی شما \کد{thes...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+! Undefined control sequence.
+l.10 ...ی پایان‌نامه‌ی شما \کد
+                                                  {thesis.tex}  نام دا�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.11 ...یک پرونده در شاخه‌ی \کد
+                                                  {chapters} ایجاد نم...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.12 ...م آن را در پرونده‌ی  \کد
+                                                  {thesis.tex} (در قسم�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ) in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.13 ...، بهتر است پرونده‌ی \کد
+                                                  {front/info.tex} را با...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--15
+[]
+ []
+
+! Undefined control sequence.
+l.17 \قسمت
+              {عبارات ریاضی}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \قسمت{ع
+                 بارات ریاضی}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 17--18
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ب
+       رای درج عبارات ریاضی در داخل متن از \$......
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 19.
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 21.
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--22
+[]
+ []
+
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 19--22
+\OT1/lmr/m/n/10 $$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 19--22
+\OT1/lmr/m/n/10 $$$$
+ []
+
+
+Overfull \hbox (51.93298pt too wide) in paragraph at lines 19--22
+[][] [] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (10.44334pt too wide) in paragraph at lines 19--22
+\OT1/cmr/m/n/10 2[]$
+ []
+
+
+Overfull \hbox (60.71304pt too wide) detected at line 22
+[] [] \OT1/cmr/m/n/10 = 2[]
+ []
+
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no غ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (5.71527pt too wide) in paragraph at lines 22--27
+                                    $\OML/cmm/m/it/10 x$
+ []
+
+
+Overfull \hbox (5.2616pt too wide) in paragraph at lines 22--27
+\OML/cmm/m/it/10 y$
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 22--27
+\OT1/lmr/m/n/10 $
+ []
+
+! Undefined control sequence.
+l.29 \قسمت
+              {علائم ریاضی پرکاربرد}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 \قسمت{ع
+                 لائم ریاضی پرکاربرد}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ئ in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 29--30
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ب
+       رخی علائم ریاضی پرکاربرد در زیر فهرست ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ئ in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 31--34
+[]
+ []
+
+! Undefined control sequence.
+l.35 \شروع
+              {فقرات}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \شروع{ف
+                 قرات}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+! Undefined control sequence.
+l.36 \فقره
+               مجموعه‌‌های اعداد:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+<recently read> \IN 
+                    
+l.37 $\IN
+         , \IZ, \IZ^+, \IQ, \IR, \IC$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.37 $\IN, \IZ
+              , \IZ^+, \IQ, \IR, \IC$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.37 $\IN, \IZ, \IZ
+                   ^+, \IQ, \IR, \IC$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.37 $\IN, \IZ, \IZ^+, \IQ
+                          , \IR, \IC$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.37 $\IN, \IZ, \IZ^+, \IQ, \IR
+                               , \IC$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.37 $\IN, \IZ, \IZ^+, \IQ, \IR, \IC
+                                    $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.38 \فقره
+               مجموعه:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+<recently read> \set 
+                     
+l.39 $\set
+          {1, 2, 3}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.40 \فقره
+               دنباله‌:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no د in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+<recently read> \seq 
+                     
+l.41 $\seq
+          {1, 2, 3}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.42 \فقره
+               سقف و کف:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no س in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+<recently read> \ceil 
+                      
+l.43 $\ceil
+           {x}, \floor{x}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 $\ceil{x}, \floor
+                      {x}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.44 \فقره
+               اندازه و متمم:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+<recently read> \card 
+                      
+l.45 $\card
+           {A}, \setcomp{A}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 $\card{A}, \setcomp
+                        {A}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.46 \فقره
+               همنهشتی:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.47 $a \iequiv
+               {n} 1$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+! Undefined control sequence.
+l.49 $a \equiv 1 \imod
+                      {n}$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.52 \فقره
+               ضرب و تقسیم:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.54 \فقره
+               سه‌نقطه‌ بین کاما:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no س in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.56 \فقره
+               سه‌نقطه بین عملگر:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no س in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.58 \فقره
+               کسر و ترکیب:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ک in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.60 \فقره
+               اجتماع و اشتراک:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.62 \فقره
+               عملگرهای منطقی:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no : in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 35--64
+[]
+ []
+
+
+Overfull \hbox (27.19435pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 ; ;[] ; ; ;$
+ []
+
+
+Overfull \hbox (23.88887pt too wide) in paragraph at lines 35--64
+[]$
+ []
+
+
+Overfull \hbox (23.88887pt too wide) in paragraph at lines 35--64
+[]$
+ []
+
+
+Overfull \hbox (15.87495pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 x; x$
+ []
+
+
+Overfull \hbox (19.44444pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 A; A$
+ []
+
+
+Overfull \hbox (16.28825pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 an\OT1/cmr/m/n/10 1$
+ []
+
+
+Overfull \hbox (15.8414pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 a \OMS/cmsy/m/n/10 ^^Q
+ []
+
+
+Overfull \hbox (11.00237pt too wide) in paragraph at lines 35--64
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 n$
+ []
+
+
+Overfull \hbox (27.22221pt too wide) in paragraph at lines 35--64
+\OMS/cmsy/m/n/10 ^^B\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^A\OML/cmm/m/it/10 ; \
+OMS/cmsy/m/n/10 ^^D$
+ []
+
+
+Overfull \hbox (42.66885pt too wide) in paragraph at lines 35--64
+\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 2\OML/cmm/m/it/10 ; [] ; n$
+
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 35--64
+\OT1/cmr/m/n/10 1 +
+ []
+
+
+Overfull \hbox (12.77782pt too wide) in paragraph at lines 35--64
+\OT1/cmr/m/n/10 2 +
+ []
+
+
+Overfull \hbox (19.44441pt too wide) in paragraph at lines 35--64
+[] \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 n$
+ []
+
+
+Overfull \hbox (25.89778pt too wide) in paragraph at lines 35--64
+[]\OML/cmm/m/it/10 ; []$
+ []
+
+
+Overfull \hbox (14.1667pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 A \OMS/cmsy/m/n/10 [
+ []
+
+
+Overfull \hbox (18.6424pt too wide) in paragraph at lines 35--64
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 B \OMS/cmsy/m/n/10 \
+ []
+
+
+Overfull \hbox (11.75139pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 C\OT1/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (18.36462pt too wide) in paragraph at lines 35--64
+\OMS/cmsy/m/n/10 :\OML/cmm/m/it/10 p \OMS/cmsy/m/n/10 _
+ []
+
+
+Overfull \hbox (15.3785pt too wide) in paragraph at lines 35--64
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 q \OMS/cmsy/m/n/10 ^
+ []
+
+
+Overfull \hbox (8.67827pt too wide) in paragraph at lines 35--64
+\OML/cmm/m/it/10 r\OT1/cmr/m/n/10 )$ 
+ []
+
+! Undefined control sequence.
+l.65 \فقره
+               پیکان‌ها:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 \فقره پ
+                 یکان‌ها:
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.67 \فقره
+               عملگرهای مقایسه‌ای:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.69 \فقره
+               عملگرهای مجموعه‌ای:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.70 ... \setminus, \subset, \subseteq, \subsetneq
+                                                  , \supset, \supseteq, \sup...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.70 ...\subsetneq, \supset, \supseteq, \supsetneq
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 65--71
+[]
+ []
+
+
+Overfull \hbox (10.00002pt too wide) in paragraph at lines 65--71
+\OMS/cmsy/m/n/10 !
+ []
+
+
+Overfull \hbox (14.44443pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 )
+ []
+
+
+Overfull \hbox (14.44443pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10  
+ []
+
+
+Overfull \hbox (14.44443pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 (
+ []
+
+
+Overfull \hbox (14.44443pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 $
+ []
+
+
+Overfull \hbox (14.44443pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ,$
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 65--71
+\OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (12.22221pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^T
+ []
+
+
+Overfull \hbox (12.22221pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 6^^T
+ []
+
+
+Overfull \hbox (12.22221pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^U
+ []
+
+
+Overfull \hbox (12.22221pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 6^^U$
+ []
+
+
+Overfull \hbox (6.66669pt too wide) in paragraph at lines 65--71
+\OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (11.1111pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 62
+ []
+
+
+Overfull \hbox (21.66664pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 n\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^Z
+ []
+
+
+Overfull \hbox (12.22221pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^R
+ []
+
+
+Overfull \hbox (16.66663pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; ; \OMS/cmsy/m/n/10 ^^[
+ []
+
+
+Overfull \hbox (12.22221pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ^^S
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 65--71
+\OML/cmm/m/it/10 ;$ 
+ []
+
+! Undefined control sequence.
+l.72 \فقره
+               جمع و ضرب چندتایی:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \فقره ج
+                 مع و ضرب چندتایی:
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ج in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no چ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.74 \فقره
+               اجتماع و اشتراک چندتایی:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no چ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.76 \فقره
+               برخی نمادها:
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no : in font nullfont!
+! Undefined control sequence.
+l.77 ...triangle, \angle, \ell, \equiv, \therefore
+                                                  $
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.78 \پایان
+                {فقرات}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 72--79
+[]
+ []
+
+
+Overfull \hbox (71.91673pt too wide) in paragraph at lines 72--79
+[][] \OML/cmm/m/it/10 a[]; [][] a[]$
+ []
+
+
+Overfull \hbox (73.01164pt too wide) in paragraph at lines 72--79
+[][] \OML/cmm/m/it/10 A[]; [][] A[]$
+ []
+
+
+Overfull \hbox (84.4289pt too wide) in paragraph at lines 72--79
+\OMS/cmsy/m/n/10 1\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 ;\OML/cmm/m/it/10 ; \OMS/
+cmsy/m/n/10 8\OML/cmm/m/it/10 ; \OMS/cmsy/m/n/10 9\OML/cmm/m/it/10 ; \OMS/cmsy/
+m/n/10 4\OML/cmm/m/it/10 ; []; `; \OMS/cmsy/m/n/10 ^^Q
+ []
+
+
+Overfull \hbox (2.77779pt too wide) in paragraph at lines 72--79
+\OML/cmm/m/it/10 ;$
+ []
+
+! Undefined control sequence.
+l.81 \قسمت
+              {لیست‌ها}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81 \قسمت{ل
+                 یست‌ها}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 81--82
+[] 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.83 ب
+       رای ایجاد یک لیست‌ می‌توانید از محیط�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 83--84
+[]
+ []
+
+
+! LaTeX Error: Environment multicols undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 \begin{multicols}
+                      {2}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.85 \begin{multicols}{2
+                        }
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 2 in font nullfont!
+! Undefined control sequence.
+l.86 ^^I\شروع
+                 {فقرات}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+! Undefined control sequence.
+l.87 ^^I\فقره
+                  مورد اول
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+! Undefined control sequence.
+l.88 ^^I\فقره
+                  مورد دوم
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+! Undefined control sequence.
+l.89 ^^I\فقره
+                  مورد سوم
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+! Undefined control sequence.
+l.90 ^^I\پایان
+                   {فقرات}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 85--91
+[]
+ []
+
+! Undefined control sequence.
+l.92 ^^I\شروع
+                 {شمارش}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.92 ^^I\شروع{ش
+                    مارش}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ش in font nullfont!
+! Undefined control sequence.
+l.93 ^^I\فقره
+                  مورد اول
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+! Undefined control sequence.
+l.94 ^^I\فقره
+                  مورد دوم
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+! Undefined control sequence.
+l.95 ^^I\فقره
+                  مورد سوم
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no م in font nullfont!
+! Undefined control sequence.
+l.96 ^^I\پایان
+                   {شمارش}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ش in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 92--97
+[]
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{multicols}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 \end{multicols}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.101 \قسمت
+               {درج شکل}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.101 \قسمت{د
+                  رج شکل}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 101--102
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 ی
+        کی از روش‌های مناسب برای ایجاد شکل اس...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.103 ...تفاده از نرم‌افزار \لر
+                                                  {LaTeX Draw} و سپس
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ل in font nullfont!
+! Undefined control sequence.
+l.104 ...ی آن به صورت یک فایل \کد
+                                                  {tex} درون متن
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.105 با استفاده از دستور  \کد
+                                                {fig} یا \کد{centerfig} ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+! Undefined control sequence.
+l.105 ...ه از دستور  \کد{fig} یا \کد
+                                                  {centerfig} است.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+! Undefined control sequence.
+l.106 شکل~\رجوع
+                      {شکل:پوشش رأسی} نمونه‌ای از اش...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no أ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 103--107
+[]
+ []
+
+! Undefined control sequence.
+l.109 \شروع
+               {شکل}[ht]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 \شروع{ش
+                  کل}[ht]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.110 \centerfig
+                {cover.tex}{.9}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+! Undefined control sequence.
+l.111 \شرح
+             {یک گراف و پوشش رأسی آن}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no أ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+! Undefined control sequence.
+l.112 \برچسب
+                 {شکل:پوشش رأسی}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no أ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.113 \پایان
+                 {شکل}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 109--114
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 ه
+        مچنین می‌توانید با استفاده از نرم‌ا�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no چ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.116 ...ستفاده از نرم‌افزار \lr
+                                                  {Ipe} شکل‌های خو...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no I in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+! Undefined control sequence.
+l.117 به صورت \لر
+                         {pdf} ایجاد نموده و آن‌ها را ب�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no p in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+! Undefined control sequence.
+l.117 ...�ن‌ها را با دستورات \کد
+                                                  {img} یا  \کد{centerimg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+! Undefined control sequence.
+l.117 ...�ا دستورات \کد{img} یا  \کد
+                                                  {centerimg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+! Undefined control sequence.
+l.118 ...�. برای نمونه، شکل~\رجوع
+                                                  {شکل:گراف جهت‌...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 116--119
+[]
+ []
+
+! Undefined control sequence.
+l.121 \شروع
+               {شکل}[hb]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.121 \شروع{ش
+                  کل}[hb]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.122 \centerimg
+                {dag}{7cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no 7 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+! Undefined control sequence.
+l.123 \شرح
+             {یک گراف جهت‌دار بدون دور}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.124 \برچسب
+                 {شکل:گراف جهت‌دار}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.125 \پایان
+                 {شکل}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ل in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 121--126
+[]
+ []
+
+! Undefined control sequence.
+l.128 \قسمت
+               {درج جدول}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 \قسمت{د
+                  رج جدول}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 128--129
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 ب
+        رای درج جدول می‌توانید با استفاده از ...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+! Undefined control sequence.
+l.132 برای نمونه جدول~\رجوع
+                                            {جدول:عملگرهای مق�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 130--133
+[]
+ []
+
+! Undefined control sequence.
+l.135 \شروع
+               {لوح}[t]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 \شروع{ل
+                  وح}[t]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ل in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+! Undefined control sequence.
+l.136 \تنظیم
+                 ‌ازوسط
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ط in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 135--137
+[]
+ []
+
+! Undefined control sequence.
+l.138 \شروع
+               {جدول}{|c|c|}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 \شروع{ج
+                  دول}{|c|c|}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no | in font nullfont!
+! Undefined control sequence.
+l.139 \خط
+           ‌پر
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.140 \سیاه
+                عملگر & \سیاه عملیات \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Misplaced alignment tab character &.
+l.140 \سیاه عملگر &
+                             \سیاه عملیات \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.140 \سیاه عملگر & \سیاه
+                                       عملیات \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+! Undefined control sequence.
+<recently read> \خط 
+                      
+l.141 \خط
+           ‌پر \خط‌پر
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.141 \خط‌پر \خط
+                        ‌پر
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.142 \کد
+           {<} & کوچک‌تر \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no < in font nullfont!
+! Misplaced alignment tab character &.
+l.142 \کد{<} &
+                 کوچک‌تر \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no ک in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no چ in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+<recently read> \کد 
+                      
+l.143 \کد
+           {>} & بزرگ‌تر \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no > in font nullfont!
+! Misplaced alignment tab character &.
+l.143 \کد{>} &
+                 بزرگ‌تر \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+<recently read> \کد 
+                      
+l.144 \کد
+           {==} &  مساوی \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no = in font nullfont!
+Missing character: There is no = in font nullfont!
+! Misplaced alignment tab character &.
+l.144 \کد{==} &
+                   مساوی \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+<recently read> \کد 
+                      
+l.145 \کد
+           {<>} & نامساوی \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no < in font nullfont!
+Missing character: There is no > in font nullfont!
+! Misplaced alignment tab character &.
+l.145 \کد{<>} &
+                  نامساوی \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+<recently read> \خط 
+                      
+l.146 \خط
+           ‌پر
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ر in font nullfont!
+! Undefined control sequence.
+l.147 \پایان
+                 {جدول}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 138--148
+[]
+ []
+
+! Undefined control sequence.
+l.149 \شرح
+             {عملگرهای مقایسه‌ای}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149 \شرح{ع
+                ملگرهای مقایسه‌ای}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.150 \برچسب
+                 {جدول:عملگرهای مقایسه‌ای}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ج in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.151 \پایان
+                 {لوح}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ل in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ح in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 149--152
+[]
+ []
+
+! Undefined control sequence.
+l.155 \قسمت
+               {درج الگوریتم}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 \قسمت{د
+                  رج الگوریتم}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 155--156
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157 ب
+        رای درج الگوریتم می‌توانید از محیط «�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 157--158
+[]
+ []
+
+! Undefined control sequence.
+l.159 \شروع
+               {الگوریتم}{پوشش رأسی حریصانه}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159 \شروع{ا
+                  لگوریتم}{پوشش رأسی حریصانه}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no أ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+! Undefined control sequence.
+l.160 \ورودی
+                  گراف $G=(V, E)$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+! Undefined control sequence.
+l.161 \خروجی
+                  یک پوشش رأسی از $G$
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no أ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 159--162
+[]
+ []
+
+
+Overfull \hbox (18.418pt too wide) in paragraph at lines 159--162
+\OML/cmm/m/it/10 G \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (26.56941pt too wide) in paragraph at lines 159--162
+\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 V; E\OT1/cmr/m/n/10 )$
+ []
+
+
+Overfull \hbox (7.86249pt too wide) in paragraph at lines 159--162
+\OML/cmm/m/it/10 G$ 
+ []
+
+! Undefined control sequence.
+l.163 \دستور
+                  قرار بده $C = \emptyset$  % \توضیحات{مقد�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.163 \دستور ق
+                    رار بده $C = \emptyset$  % \توضیحات{مقد�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+! Undefined control sequence.
+l.164 \تاوقتی
+                   {$E$ تهی نیست}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+! Undefined control sequence.
+l.168 \دستور
+                  یال دل‌‌خواه $uv \in E$ را انتخاب کن
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+! Undefined control sequence.
+l.169 \دستور
+                  رأس‌های $u$ و $v$ را به $C$ اضافه کن
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ر in font nullfont!
+Missing character: There is no أ in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+! Undefined control sequence.
+l.170 \دستور
+                  تمام یال‌های واقع بر $u$ یا $v$ را �...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ذ in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+! Undefined control sequence.
+l.171 \پایان
+                 ‌تاوقتی
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+! Undefined control sequence.
+l.172 \دستور
+                  $C$ را برگردان
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+! Undefined control sequence.
+l.173 \پایان
+                 {الگوریتم}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no م in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 163--174
+[]
+ []
+
+
+Overfull \hbox (18.418pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 C \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 163--174
+\OMS/cmsy/m/n/10 ;$
+ []
+
+
+Overfull \hbox (7.95831pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 E$
+ []
+
+
+Overfull \hbox (20.37498pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 uv \OMS/cmsy/m/n/10 2
+ []
+
+
+Overfull \hbox (7.95831pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 E$
+ []
+
+
+Overfull \hbox (5.72458pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 u$
+ []
+
+
+Overfull \hbox (5.20601pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 v$
+ []
+
+
+Overfull \hbox (7.86249pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 C$
+ []
+
+
+Overfull \hbox (5.72458pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 u$
+ []
+
+
+Overfull \hbox (5.20601pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 v$
+ []
+
+
+Overfull \hbox (7.95831pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 E$
+ []
+
+
+Overfull \hbox (7.86249pt too wide) in paragraph at lines 163--174
+\OML/cmm/m/it/10 C$
+ []
+
+! Undefined control sequence.
+l.176 \قسمت
+               {محیط‌های ویژه}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 \قسمت{م
+                  حیط‌های ویژه}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no م in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ژ in font nullfont!
+Missing character: There is no ه in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 176--177
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178 ب
+        رای درج مثال‌ها، قضیه‌ها، لم‌ها و ن�...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ث in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 178--181
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 ت
+        عریف‌های داخل متن را با استفاده از دس...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ت in font nullfont!
+! Undefined control sequence.
+l.182 ...ستور «مهم» به صورت \مهم
+                                                  {تیره‌} نشان د�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ط in font nullfont!
+Missing character: There is no « in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no » in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no . in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 182--184
+[]
+ []
+
+! Undefined control sequence.
+l.185 \شروع
+               {تعریف}[اصل لانه‌کبوتری]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 \شروع{ت
+                  عریف}[اصل لانه‌کبوتری]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no [ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ، in font nullfont!
+Missing character: There is no آ in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no گ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ج in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ق in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ک in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no س in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no . in font nullfont!
+! Undefined control sequence.
+l.188 \پایان
+                 {تعریف}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ف in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 185--189
+[]
+ []
+
+
+Overfull \hbox (13.78015pt too wide) in paragraph at lines 185--189
+\OML/cmm/m/it/10 n \OT1/cmr/m/n/10 +
+ []
+
+
+Overfull \hbox (5.00002pt too wide) in paragraph at lines 185--189
+\OT1/cmr/m/n/10 1$
+ []
+
+
+Overfull \hbox (6.00235pt too wide) in paragraph at lines 185--189
+\OML/cmm/m/it/10 n$
+ []
+
+)
+! Emergency stop.
+<*> 1.tex
+         
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 48 strings out of 493007
+ 882 string characters out of 6136720
+ 65819 words of memory out of 5000000
+ 4114 multiletter control sequences out of 15000+600000
+ 6583 words of font info for 15 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 18i,8n,12p,186b,87s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
